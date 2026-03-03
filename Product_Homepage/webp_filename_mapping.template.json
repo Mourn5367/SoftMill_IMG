@@ -1,0 +1,279 @@
+{
+  "items": [
+    {
+      "english_file_name": "blast_freezer_2door.webp",
+      "english_jsdelivr_url": "https://cdn.jsdelivr.net/gh/{owner}/{repo}@{ref}/Product_Homepage/webp/blast_freezer_2door.webp",
+      "korean_file_name": "급속냉동고_2도어.webp"
+    },
+    {
+      "english_file_name": "blast_freezer_4door.webp",
+      "english_jsdelivr_url": "https://cdn.jsdelivr.net/gh/{owner}/{repo}@{ref}/Product_Homepage/webp/blast_freezer_4door.webp",
+      "korean_file_name": "급속냉동고_4도어.webp"
+    },
+    {
+      "english_file_name": "freezer_2door.webp",
+      "english_jsdelivr_url": "https://cdn.jsdelivr.net/gh/{owner}/{repo}@{ref}/Product_Homepage/webp/freezer_2door.webp",
+      "korean_file_name": "냉동2도어.webp"
+    },
+    {
+      "english_file_name": "freezer_4door.webp",
+      "english_jsdelivr_url": "https://cdn.jsdelivr.net/gh/{owner}/{repo}@{ref}/Product_Homepage/webp/freezer_4door.webp",
+      "korean_file_name": "냉동고_4도어.webp"
+    },
+    {
+      "english_file_name": "refrigerator_freezer.webp",
+      "english_jsdelivr_url": "https://cdn.jsdelivr.net/gh/{owner}/{repo}@{ref}/Product_Homepage/webp/refrigerator_freezer.webp",
+      "korean_file_name": "냉장냉동고.webp"
+    },
+    {
+      "english_file_name": "easy_proofer_20p.webp",
+      "english_jsdelivr_url": "https://cdn.jsdelivr.net/gh/{owner}/{repo}@{ref}/Product_Homepage/webp/easy_proofer_20p.webp",
+      "korean_file_name": "더_간편발효기_20매.webp"
+    },
+    {
+      "english_file_name": "easy_proofer_40p.webp",
+      "english_jsdelivr_url": "https://cdn.jsdelivr.net/gh/{owner}/{repo}@{ref}/Product_Homepage/webp/easy_proofer_40p.webp",
+      "korean_file_name": "더_간편발효기_40매.webp"
+    },
+    {
+      "english_file_name": "deck_oven_2p_3t.webp",
+      "english_jsdelivr_url": "https://cdn.jsdelivr.net/gh/{owner}/{repo}@{ref}/Product_Homepage/webp/deck_oven_2p_3t.webp",
+      "korean_file_name": "데크오븐_2매3단.webp"
+    },
+    {
+      "english_file_name": "deck_oven_3p_3t.webp",
+      "english_jsdelivr_url": "https://cdn.jsdelivr.net/gh/{owner}/{repo}@{ref}/Product_Homepage/webp/deck_oven_3p_3t.webp",
+      "korean_file_name": "데크오븐_3매3단.webp"
+    },
+    {
+      "english_file_name": "deck_oven_g_type_2p_3t.webp",
+      "english_jsdelivr_url": "https://cdn.jsdelivr.net/gh/{owner}/{repo}@{ref}/Product_Homepage/webp/deck_oven_g_type_2p_3t.webp",
+      "korean_file_name": "데크오븐_G타입_2매3단.webp"
+    },
+    {
+      "english_file_name": "deck_oven_g_type_3p_3t.webp",
+      "english_jsdelivr_url": "https://cdn.jsdelivr.net/gh/{owner}/{repo}@{ref}/Product_Homepage/webp/deck_oven_g_type_3p_3t.webp",
+      "korean_file_name": "데크오븐_G타입_3매3단.webp"
+    },
+    {
+      "english_file_name": "dough_conditioner_standalone.webp",
+      "english_jsdelivr_url": "https://cdn.jsdelivr.net/gh/{owner}/{repo}@{ref}/Product_Homepage/webp/dough_conditioner_standalone.webp",
+      "korean_file_name": "도우컨_독립형.webp"
+    },
+    {
+      "english_file_name": "dough_conditioner_hybrid.webp",
+      "english_jsdelivr_url": "https://cdn.jsdelivr.net/gh/{owner}/{repo}@{ref}/Product_Homepage/webp/dough_conditioner_hybrid.webp",
+      "korean_file_name": "도우컨디셔너_하이브리드.webp"
+    },
+    {
+      "english_file_name": "divider.webp",
+      "english_jsdelivr_url": "https://cdn.jsdelivr.net/gh/{owner}/{repo}@{ref}/Product_Homepage/webp/divider.webp",
+      "korean_file_name": "디바이더.webp"
+    },
+    {
+      "english_file_name": "divider_rounder.webp",
+      "english_jsdelivr_url": "https://cdn.jsdelivr.net/gh/{owner}/{repo}@{ref}/Product_Homepage/webp/divider_rounder.webp",
+      "korean_file_name": "디바이더라운더기.webp"
+    },
+    {
+      "english_file_name": "rotary_rack_36p.webp",
+      "english_jsdelivr_url": "https://cdn.jsdelivr.net/gh/{owner}/{repo}@{ref}/Product_Homepage/webp/rotary_rack_36p.webp",
+      "korean_file_name": "로터리랙36매.webp"
+    },
+    {
+      "english_file_name": "rotary_rack_oven_10p_lcd.webp",
+      "english_jsdelivr_url": "https://cdn.jsdelivr.net/gh/{owner}/{repo}@{ref}/Product_Homepage/webp/rotary_rack_oven_10p_lcd.webp",
+      "korean_file_name": "로터리랙오븐_10매_LCD.webp"
+    },
+    {
+      "english_file_name": "room_dough_conditioner.webp",
+      "english_jsdelivr_url": "https://cdn.jsdelivr.net/gh/{owner}/{repo}@{ref}/Product_Homepage/webp/room_dough_conditioner.webp",
+      "korean_file_name": "룸_도우컨디셔너.webp"
+    },
+    {
+      "english_file_name": "levain_processor_30l.webp",
+      "english_jsdelivr_url": "https://cdn.jsdelivr.net/gh/{owner}/{repo}@{ref}/Product_Homepage/webp/levain_processor_30l.webp",
+      "korean_file_name": "르방프로세서30L.webp"
+    },
+    {
+      "english_file_name": "levain_processor_60l.webp",
+      "english_jsdelivr_url": "https://cdn.jsdelivr.net/gh/{owner}/{repo}@{ref}/Product_Homepage/webp/levain_processor_60l.webp",
+      "korean_file_name": "르방프로세서60L.webp"
+    },
+    {
+      "english_file_name": "moulder.webp",
+      "english_jsdelivr_url": "https://cdn.jsdelivr.net/gh/{owner}/{repo}@{ref}/Product_Homepage/webp/moulder.webp",
+      "korean_file_name": "몰더기.webp"
+    },
+    {
+      "english_file_name": "mini_deck.webp",
+      "english_jsdelivr_url": "https://cdn.jsdelivr.net/gh/{owner}/{repo}@{ref}/Product_Homepage/webp/mini_deck.webp",
+      "korean_file_name": "미니데크.webp"
+    },
+    {
+      "english_file_name": "mini_dough_conditioner.webp",
+      "english_jsdelivr_url": "https://cdn.jsdelivr.net/gh/{owner}/{repo}@{ref}/Product_Homepage/webp/mini_dough_conditioner.webp",
+      "korean_file_name": "미니도우컨.webp"
+    },
+    {
+      "english_file_name": "mini_proofer.webp",
+      "english_jsdelivr_url": "https://cdn.jsdelivr.net/gh/{owner}/{repo}@{ref}/Product_Homepage/webp/mini_proofer.webp",
+      "korean_file_name": "미니발효.webp"
+    },
+    {
+      "english_file_name": "mini_convection.webp",
+      "english_jsdelivr_url": "https://cdn.jsdelivr.net/gh/{owner}/{repo}@{ref}/Product_Homepage/webp/mini_convection.webp",
+      "korean_file_name": "미니컨벡션.webp"
+    },
+    {
+      "english_file_name": "middle_ceramic_oven_2p_3t_side.webp",
+      "english_jsdelivr_url": "https://cdn.jsdelivr.net/gh/{owner}/{repo}@{ref}/Product_Homepage/webp/middle_ceramic_oven_2p_3t_side.webp",
+      "korean_file_name": "미들세라믹오븐_2매3단_정측면.webp"
+    },
+    {
+      "english_file_name": "middle_ceramic_oven_3p_side.webp",
+      "english_jsdelivr_url": "https://cdn.jsdelivr.net/gh/{owner}/{repo}@{ref}/Product_Homepage/webp/middle_ceramic_oven_3p_side.webp",
+      "korean_file_name": "미들세라믹오븐_3매_정측면.webp"
+    },
+    {
+      "english_file_name": "proofer_20p.webp",
+      "english_jsdelivr_url": "https://cdn.jsdelivr.net/gh/{owner}/{repo}@{ref}/Product_Homepage/webp/proofer_20p.webp",
+      "korean_file_name": "발효기20매.webp"
+    },
+    {
+      "english_file_name": "proofer_40p.webp",
+      "english_jsdelivr_url": "https://cdn.jsdelivr.net/gh/{owner}/{repo}@{ref}/Product_Homepage/webp/proofer_40p.webp",
+      "korean_file_name": "발효기_40매.webp"
+    },
+    {
+      "english_file_name": "vertical_mixer_20l.webp",
+      "english_jsdelivr_url": "https://cdn.jsdelivr.net/gh/{owner}/{repo}@{ref}/Product_Homepage/webp/vertical_mixer_20l.webp",
+      "korean_file_name": "버티컬믹서20L.webp"
+    },
+    {
+      "english_file_name": "vertical_mixer_30l.webp",
+      "english_jsdelivr_url": "https://cdn.jsdelivr.net/gh/{owner}/{repo}@{ref}/Product_Homepage/webp/vertical_mixer_30l.webp",
+      "korean_file_name": "버티컬믹서30L.webp"
+    },
+    {
+      "english_file_name": "vertical_mixer_pl20cnvhf.webp",
+      "english_jsdelivr_url": "https://cdn.jsdelivr.net/gh/{owner}/{repo}@{ref}/Product_Homepage/webp/vertical_mixer_pl20cnvhf.webp",
+      "korean_file_name": "버티컬믹서PL20CNVHF.webp"
+    },
+    {
+      "english_file_name": "vertical_mixer_pl30n3f.webp",
+      "english_jsdelivr_url": "https://cdn.jsdelivr.net/gh/{owner}/{repo}@{ref}/Product_Homepage/webp/vertical_mixer_pl30n3f.webp",
+      "korean_file_name": "버티컬믹서PL30N3F.webp"
+    },
+    {
+      "english_file_name": "vertical_mixer_50l.webp",
+      "english_jsdelivr_url": "https://cdn.jsdelivr.net/gh/{owner}/{repo}@{ref}/Product_Homepage/webp/vertical_mixer_50l.webp",
+      "korean_file_name": "버티컬믹서기_50L.webp"
+    },
+    {
+      "english_file_name": "compact_dough_conditioner.webp",
+      "english_jsdelivr_url": "https://cdn.jsdelivr.net/gh/{owner}/{repo}@{ref}/Product_Homepage/webp/compact_dough_conditioner.webp",
+      "korean_file_name": "소형_도우컨디셔너.webp"
+    },
+    {
+      "english_file_name": "spiral_mixer.webp",
+      "english_jsdelivr_url": "https://cdn.jsdelivr.net/gh/{owner}/{repo}@{ref}/Product_Homepage/webp/spiral_mixer.webp",
+      "korean_file_name": "스파이럴믹서기.webp"
+    },
+    {
+      "english_file_name": "slicer.webp",
+      "english_jsdelivr_url": "https://cdn.jsdelivr.net/gh/{owner}/{repo}@{ref}/Product_Homepage/webp/slicer.webp",
+      "korean_file_name": "슬라이서.webp"
+    },
+    {
+      "english_file_name": "double_door_dough_conditioner.webp",
+      "english_jsdelivr_url": "https://cdn.jsdelivr.net/gh/{owner}/{repo}@{ref}/Product_Homepage/webp/double_door_dough_conditioner.webp",
+      "korean_file_name": "양문형_도우컨디셔너.webp"
+    },
+    {
+      "english_file_name": "double_door_proofer_homepage.webp",
+      "english_jsdelivr_url": "https://cdn.jsdelivr.net/gh/{owner}/{repo}@{ref}/Product_Homepage/webp/double_door_proofer_homepage.webp",
+      "korean_file_name": "양문형_발효기.webp"
+    },
+    {
+      "english_file_name": "euro_baker_2p_3t.webp",
+      "english_jsdelivr_url": "https://cdn.jsdelivr.net/gh/{owner}/{repo}@{ref}/Product_Homepage/webp/euro_baker_2p_3t.webp",
+      "korean_file_name": "유로베이커2매3단.webp"
+    },
+    {
+      "english_file_name": "euro_baker_4p_3t.webp",
+      "english_jsdelivr_url": "https://cdn.jsdelivr.net/gh/{owner}/{repo}@{ref}/Product_Homepage/webp/euro_baker_4p_3t.webp",
+      "korean_file_name": "유로베이커4매3단.webp"
+    },
+    {
+      "english_file_name": "inno_bc_oven_4p_3t.webp",
+      "english_jsdelivr_url": "https://cdn.jsdelivr.net/gh/{owner}/{repo}@{ref}/Product_Homepage/webp/inno_bc_oven_4p_3t.webp",
+      "korean_file_name": "이노비씨오븐_4매3단.webp"
+    },
+    {
+      "english_file_name": "inno_bc_oven_8p_5t.webp",
+      "english_jsdelivr_url": "https://cdn.jsdelivr.net/gh/{owner}/{repo}@{ref}/Product_Homepage/webp/inno_bc_oven_8p_5t.webp",
+      "korean_file_name": "이노비씨오븐_8매5단.webp"
+    },
+    {
+      "english_file_name": "integrated_dough_conditioner.webp",
+      "english_jsdelivr_url": "https://cdn.jsdelivr.net/gh/{owner}/{repo}@{ref}/Product_Homepage/webp/integrated_dough_conditioner.webp",
+      "korean_file_name": "일체형_도우컨디셔너.webp"
+    },
+    {
+      "english_file_name": "low_temp_humidity_cabinet.webp",
+      "english_jsdelivr_url": "https://cdn.jsdelivr.net/gh/{owner}/{repo}@{ref}/Product_Homepage/webp/low_temp_humidity_cabinet.webp",
+      "korean_file_name": "저온다습고.webp"
+    },
+    {
+      "english_file_name": "convergence_2p_3t.webp",
+      "english_jsdelivr_url": "https://cdn.jsdelivr.net/gh/{owner}/{repo}@{ref}/Product_Homepage/webp/convergence_2p_3t.webp",
+      "korean_file_name": "컨버전스2매3단.webp"
+    },
+    {
+      "english_file_name": "convergence_4p_3t.webp",
+      "english_jsdelivr_url": "https://cdn.jsdelivr.net/gh/{owner}/{repo}@{ref}/Product_Homepage/webp/convergence_4p_3t.webp",
+      "korean_file_name": "컨버전스4매3단.webp"
+    },
+    {
+      "english_file_name": "convection_5p_2t.webp",
+      "english_jsdelivr_url": "https://cdn.jsdelivr.net/gh/{owner}/{repo}@{ref}/Product_Homepage/webp/convection_5p_2t.webp",
+      "korean_file_name": "컨벡션5매2단.webp"
+    },
+    {
+      "english_file_name": "convection_oven_10p.webp",
+      "english_jsdelivr_url": "https://cdn.jsdelivr.net/gh/{owner}/{repo}@{ref}/Product_Homepage/webp/convection_oven_10p.webp",
+      "korean_file_name": "컨벡션오븐_10매.webp"
+    },
+    {
+      "english_file_name": "convection_oven_5p.webp",
+      "english_jsdelivr_url": "https://cdn.jsdelivr.net/gh/{owner}/{repo}@{ref}/Product_Homepage/webp/convection_oven_5p.webp",
+      "korean_file_name": "컨벡션오븐_5매.webp"
+    },
+    {
+      "english_file_name": "combi.webp",
+      "english_jsdelivr_url": "https://cdn.jsdelivr.net/gh/{owner}/{repo}@{ref}/Product_Homepage/webp/combi.webp",
+      "korean_file_name": "콤비.webp"
+    },
+    {
+      "english_file_name": "table_refrigerator_freezer.webp",
+      "english_jsdelivr_url": "https://cdn.jsdelivr.net/gh/{owner}/{repo}@{ref}/Product_Homepage/webp/table_refrigerator_freezer.webp",
+      "korean_file_name": "테이블냉장냉동고.webp"
+    },
+    {
+      "english_file_name": "pie_roller_450a.webp",
+      "english_jsdelivr_url": "https://cdn.jsdelivr.net/gh/{owner}/{repo}@{ref}/Product_Homepage/webp/pie_roller_450a.webp",
+      "korean_file_name": "파이롤러450A.webp"
+    },
+    {
+      "english_file_name": "pie_roller_d520bf.webp",
+      "english_jsdelivr_url": "https://cdn.jsdelivr.net/gh/{owner}/{repo}@{ref}/Product_Homepage/webp/pie_roller_d520bf.webp",
+      "korean_file_name": "파이롤러D520BF.webp"
+    },
+    {
+      "english_file_name": "pie_roller_sf500d_sf500vd.webp",
+      "english_jsdelivr_url": "https://cdn.jsdelivr.net/gh/{owner}/{repo}@{ref}/Product_Homepage/webp/pie_roller_sf500d_sf500vd.webp",
+      "korean_file_name": "파이롤러SF500D_SF500VD.webp"
+    }
+  ]
+}
