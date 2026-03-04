@@ -142,26 +142,28 @@
       "english_file_name": "mini_deck.webp",
       "korean_file_name": "미니데크오븐.webp",
       "jsdelivr_url": "https://cdn.jsdelivr.net/gh/Mourn5367/SoftMill_IMG@main/Product_Homepage/webp/mini_deck.webp",
-      "product":"오븐",
+      "product":"미니시리즈",
       "category":"데크오븐"
     },
     {
       "english_file_name": "mini_dough_conditioner.webp",
       "korean_file_name": "미니도우컨디셔너.webp",
       "jsdelivr_url": "https://cdn.jsdelivr.net/gh/Mourn5367/SoftMill_IMG@main/Product_Homepage/webp/mini_dough_conditioner.webp",
-      "product":"도우컨디셔너"
+      "product":"미니시리즈",
+      "category":"도우컨디셔너"
     },
     {
       "english_file_name": "mini_proofer.webp",
       "korean_file_name": "미니발효기.webp",
       "jsdelivr_url": "https://cdn.jsdelivr.net/gh/Mourn5367/SoftMill_IMG@main/Product_Homepage/webp/mini_proofer.webp",
-      "product":"발효기"
+      "product":"미니시리즈",
+      "category":"발효기"
     },
     {
       "english_file_name": "mini_convection.webp",
       "korean_file_name": "미니컨벡션오븐.webp",
       "jsdelivr_url": "https://cdn.jsdelivr.net/gh/Mourn5367/SoftMill_IMG@main/Product_Homepage/webp/mini_convection.webp",
-      "product":"오븐",
+      "product":"미니시리즈",
       "category":"컨벡션오븐"
     },
     {
