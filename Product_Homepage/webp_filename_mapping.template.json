@@ -3,252 +3,334 @@
     {
       "english_file_name": "blast_freezer_2door.webp",
       "korean_file_name": "급속냉동고_2도어.webp",
-      "jsdelivr_url": "https://cdn.jsdelivr.net/gh/Mourn5367/SoftMill_IMG@main/Product_Homepage/webp/blast_freezer_2door.webp"
+      "jsdelivr_url": "https://cdn.jsdelivr.net/gh/Mourn5367/SoftMill_IMG@main/Product_Homepage/webp/blast_freezer_2door.webp",
+      "product":"냉장냉동고",
+      "category":"급속냉동고"
     },
     {
       "english_file_name": "blast_freezer_4door.webp",
       "korean_file_name": "급속냉동고_4도어.webp",
-      "jsdelivr_url": "https://cdn.jsdelivr.net/gh/Mourn5367/SoftMill_IMG@main/Product_Homepage/webp/blast_freezer_4door.webp"
+      "jsdelivr_url": "https://cdn.jsdelivr.net/gh/Mourn5367/SoftMill_IMG@main/Product_Homepage/webp/blast_freezer_4door.webp",
+      "product":"냉장냉동고",
+      "category":"급속냉동고"
     },
     {
       "english_file_name": "freezer_2door.webp",
       "korean_file_name": "냉동고_2도어.webp",
-      "jsdelivr_url": "https://cdn.jsdelivr.net/gh/Mourn5367/SoftMill_IMG@main/Product_Homepage/webp/freezer_2door.webp"
+      "jsdelivr_url": "https://cdn.jsdelivr.net/gh/Mourn5367/SoftMill_IMG@main/Product_Homepage/webp/freezer_2door.webp",
+      "product":"냉장냉동고",
+      "category":"냉동고"
     },
     {
       "english_file_name": "freezer_4door.webp",
       "korean_file_name": "냉동고_4도어.webp",
-      "jsdelivr_url": "https://cdn.jsdelivr.net/gh/Mourn5367/SoftMill_IMG@main/Product_Homepage/webp/freezer_4door.webp"
+      "jsdelivr_url": "https://cdn.jsdelivr.net/gh/Mourn5367/SoftMill_IMG@main/Product_Homepage/webp/freezer_4door.webp","product":"냉장냉동고",
+      "category":"냉동고"
     },
     {
       "english_file_name": "refrigerator_freezer.webp",
       "korean_file_name": "냉장냉동고.webp",
-      "jsdelivr_url": "https://cdn.jsdelivr.net/gh/Mourn5367/SoftMill_IMG@main/Product_Homepage/webp/refrigerator_freezer.webp"
+      "jsdelivr_url": "https://cdn.jsdelivr.net/gh/Mourn5367/SoftMill_IMG@main/Product_Homepage/webp/refrigerator_freezer.webp",
+      "product":"냉장냉동고",
+      "category":"냉장냉동고"
     },
     {
       "english_file_name": "easy_proofer_20p.webp",
       "korean_file_name": "더_간편발효기_20매.webp",
-      "jsdelivr_url": "https://cdn.jsdelivr.net/gh/Mourn5367/SoftMill_IMG@main/Product_Homepage/webp/easy_proofer_20p.webp"
+      "jsdelivr_url": "https://cdn.jsdelivr.net/gh/Mourn5367/SoftMill_IMG@main/Product_Homepage/webp/easy_proofer_20p.webp",
+      "product":"발효기"
     },
     {
       "english_file_name": "easy_proofer_40p.webp",
       "korean_file_name": "더_간편발효기_40매.webp",
-      "jsdelivr_url": "https://cdn.jsdelivr.net/gh/Mourn5367/SoftMill_IMG@main/Product_Homepage/webp/easy_proofer_40p.webp"
+      "jsdelivr_url": "https://cdn.jsdelivr.net/gh/Mourn5367/SoftMill_IMG@main/Product_Homepage/webp/easy_proofer_40p.webp",
+      "product":"발효기"
     },
     {
       "english_file_name": "deck_oven_2p_3t.webp",
       "korean_file_name": "데크오븐_2매3단.webp",
-      "jsdelivr_url": "https://cdn.jsdelivr.net/gh/Mourn5367/SoftMill_IMG@main/Product_Homepage/webp/deck_oven_2p_3t.webp"
+      "jsdelivr_url": "https://cdn.jsdelivr.net/gh/Mourn5367/SoftMill_IMG@main/Product_Homepage/webp/deck_oven_2p_3t.webp",
+      "product":"오븐",
+      "category":"데크오븐"
     },
     {
       "english_file_name": "deck_oven_3p_3t.webp",
       "korean_file_name": "데크오븐_3매3단.webp",
-      "jsdelivr_url": "https://cdn.jsdelivr.net/gh/Mourn5367/SoftMill_IMG@main/Product_Homepage/webp/deck_oven_3p_3t.webp"
+      "jsdelivr_url": "https://cdn.jsdelivr.net/gh/Mourn5367/SoftMill_IMG@main/Product_Homepage/webp/deck_oven_3p_3t.webp",
+      "product":"오븐",
+      "category":"데크오븐"
     },
     {
       "english_file_name": "deck_oven_g_type_2p_3t.webp",
       "korean_file_name": "데크오븐_G타입_2매3단.webp",
-      "jsdelivr_url": "https://cdn.jsdelivr.net/gh/Mourn5367/SoftMill_IMG@main/Product_Homepage/webp/deck_oven_g_type_2p_3t.webp"
+      "jsdelivr_url": "https://cdn.jsdelivr.net/gh/Mourn5367/SoftMill_IMG@main/Product_Homepage/webp/deck_oven_g_type_2p_3t.webp",
+      "product":"오븐",
+      "category":"데크오븐"
     },
     {
       "english_file_name": "deck_oven_g_type_3p_3t.webp",
       "korean_file_name": "데크오븐_G타입_3매3단.webp",
-      "jsdelivr_url": "https://cdn.jsdelivr.net/gh/Mourn5367/SoftMill_IMG@main/Product_Homepage/webp/deck_oven_g_type_3p_3t.webp"
+      "jsdelivr_url": "https://cdn.jsdelivr.net/gh/Mourn5367/SoftMill_IMG@main/Product_Homepage/webp/deck_oven_g_type_3p_3t.webp",
+      "product":"오븐",
+      "category":"데크오븐"
     },
     {
       "english_file_name": "dough_conditioner_standalone.webp",
       "korean_file_name": "도우컨디셔너_독립형.webp",
-      "jsdelivr_url": "https://cdn.jsdelivr.net/gh/Mourn5367/SoftMill_IMG@main/Product_Homepage/webp/dough_conditioner_standalone.webp"
+      "jsdelivr_url": "https://cdn.jsdelivr.net/gh/Mourn5367/SoftMill_IMG@main/Product_Homepage/webp/dough_conditioner_standalone.webp",
+      "product":"도우컨디셔너"
     },
     {
       "english_file_name": "dough_conditioner_hybrid.webp",
       "korean_file_name": "도우컨디셔너_하이브리드.webp",
-      "jsdelivr_url": "https://cdn.jsdelivr.net/gh/Mourn5367/SoftMill_IMG@main/Product_Homepage/webp/dough_conditioner_hybrid.webp"
+      "jsdelivr_url": "https://cdn.jsdelivr.net/gh/Mourn5367/SoftMill_IMG@main/Product_Homepage/webp/dough_conditioner_hybrid.webp",
+      "product":"도우컨디셔너"
     },
     {
       "english_file_name": "divider.webp",
       "korean_file_name": "디바이더.webp",
-      "jsdelivr_url": "https://cdn.jsdelivr.net/gh/Mourn5367/SoftMill_IMG@main/Product_Homepage/webp/divider.webp"
+      "jsdelivr_url": "https://cdn.jsdelivr.net/gh/Mourn5367/SoftMill_IMG@main/Product_Homepage/webp/divider.webp",
+      "product":"제빵기기",
+      "category":"디바이더"
     },
     {
       "english_file_name": "divider_rounder.webp",
       "korean_file_name": "디바이더_라운더기.webp",
-      "jsdelivr_url": "https://cdn.jsdelivr.net/gh/Mourn5367/SoftMill_IMG@main/Product_Homepage/webp/divider_rounder.webp"
+      "jsdelivr_url": "https://cdn.jsdelivr.net/gh/Mourn5367/SoftMill_IMG@main/Product_Homepage/webp/divider_rounder.webp",
+      "product":"제빵기기",
+      "category":"디바이더"
     },
     {
       "english_file_name": "rotary_rack_36p.webp",
-      "korean_file_name": "로터리랙_36매.webp",
-      "jsdelivr_url": "https://cdn.jsdelivr.net/gh/Mourn5367/SoftMill_IMG@main/Product_Homepage/webp/rotary_rack_36p.webp"
+      "korean_file_name": "로터리랙오븐_36매.webp",
+      "jsdelivr_url": "https://cdn.jsdelivr.net/gh/Mourn5367/SoftMill_IMG@main/Product_Homepage/webp/rotary_rack_36p.webp",
+      "product":"오븐",
+      "category":"로터리랙오븐"
     },
     {
       "english_file_name": "rotary_rack_oven_10p_lcd.webp",
       "korean_file_name": "로터리랙오븐_10매_LCD.webp",
-      "jsdelivr_url": "https://cdn.jsdelivr.net/gh/Mourn5367/SoftMill_IMG@main/Product_Homepage/webp/rotary_rack_oven_10p_lcd.webp"
+      "jsdelivr_url": "https://cdn.jsdelivr.net/gh/Mourn5367/SoftMill_IMG@main/Product_Homepage/webp/rotary_rack_oven_10p_lcd.webp",
+      "product":"오븐",
+      "category":"로터리랙오븐"
     },
     {
       "english_file_name": "room_dough_conditioner.webp",
       "korean_file_name": "룸_도우컨디셔너.webp",
-      "jsdelivr_url": "https://cdn.jsdelivr.net/gh/Mourn5367/SoftMill_IMG@main/Product_Homepage/webp/room_dough_conditioner.webp"
+      "jsdelivr_url": "https://cdn.jsdelivr.net/gh/Mourn5367/SoftMill_IMG@main/Product_Homepage/webp/room_dough_conditioner.webp",
+      "product":"도우컨디셔너"
     },
     {
       "english_file_name": "levain_processor_30l.webp",
       "korean_file_name": "르방프로세서_30L.webp",
-      "jsdelivr_url": "https://cdn.jsdelivr.net/gh/Mourn5367/SoftMill_IMG@main/Product_Homepage/webp/levain_processor_30l.webp"
+      "jsdelivr_url": "https://cdn.jsdelivr.net/gh/Mourn5367/SoftMill_IMG@main/Product_Homepage/webp/levain_processor_30l.webp",
+      "product":"르방프로세서"
     },
     {
       "english_file_name": "levain_processor_60l.webp",
       "korean_file_name": "르방프로세서60L.webp",
-      "jsdelivr_url": "https://cdn.jsdelivr.net/gh/Mourn5367/SoftMill_IMG@main/Product_Homepage/webp/levain_processor_60l.webp"
+      "jsdelivr_url": "https://cdn.jsdelivr.net/gh/Mourn5367/SoftMill_IMG@main/Product_Homepage/webp/levain_processor_60l.webp",
+      "product":"르방프로세서"
     },
     {
       "english_file_name": "moulder.webp",
       "korean_file_name": "몰더기.webp",
-      "jsdelivr_url": "https://cdn.jsdelivr.net/gh/Mourn5367/SoftMill_IMG@main/Product_Homepage/webp/moulder.webp"
+      "jsdelivr_url": "https://cdn.jsdelivr.net/gh/Mourn5367/SoftMill_IMG@main/Product_Homepage/webp/moulder.webp",
+      "product":"제빵기기",
     },
     {
       "english_file_name": "mini_deck.webp",
       "korean_file_name": "미니데크오븐.webp",
-      "jsdelivr_url": "https://cdn.jsdelivr.net/gh/Mourn5367/SoftMill_IMG@main/Product_Homepage/webp/mini_deck.webp"
+      "jsdelivr_url": "https://cdn.jsdelivr.net/gh/Mourn5367/SoftMill_IMG@main/Product_Homepage/webp/mini_deck.webp",
+      "product":"오븐",
+      "category":"데크오븐"
     },
     {
       "english_file_name": "mini_dough_conditioner.webp",
       "korean_file_name": "미니도우컨디셔너.webp",
-      "jsdelivr_url": "https://cdn.jsdelivr.net/gh/Mourn5367/SoftMill_IMG@main/Product_Homepage/webp/mini_dough_conditioner.webp"
+      "jsdelivr_url": "https://cdn.jsdelivr.net/gh/Mourn5367/SoftMill_IMG@main/Product_Homepage/webp/mini_dough_conditioner.webp",
+      "product":"도우컨디셔너"
     },
     {
       "english_file_name": "mini_proofer.webp",
       "korean_file_name": "미니발효기.webp",
-      "jsdelivr_url": "https://cdn.jsdelivr.net/gh/Mourn5367/SoftMill_IMG@main/Product_Homepage/webp/mini_proofer.webp"
+      "jsdelivr_url": "https://cdn.jsdelivr.net/gh/Mourn5367/SoftMill_IMG@main/Product_Homepage/webp/mini_proofer.webp",
+      "product":"발효기"
     },
     {
       "english_file_name": "mini_convection.webp",
       "korean_file_name": "미니컨벡션오븐.webp",
-      "jsdelivr_url": "https://cdn.jsdelivr.net/gh/Mourn5367/SoftMill_IMG@main/Product_Homepage/webp/mini_convection.webp"
+      "jsdelivr_url": "https://cdn.jsdelivr.net/gh/Mourn5367/SoftMill_IMG@main/Product_Homepage/webp/mini_convection.webp",
+      "product":"오븐",
+      "category":"컨벡션오븐"
     },
     {
       "english_file_name": "middle_ceramic_oven_2p_3t.webp",
       "korean_file_name": "미들세라믹오븐_2매3단.webp",
-      "jsdelivr_url": "https://cdn.jsdelivr.net/gh/Mourn5367/SoftMill_IMG@main/Product_Homepage/webp/middle_ceramic_oven_2p_3t.webp"
+      "jsdelivr_url": "https://cdn.jsdelivr.net/gh/Mourn5367/SoftMill_IMG@main/Product_Homepage/webp/middle_ceramic_oven_2p_3t.webp",
+      "product":"오븐",
+      "category":"세라믹오븐"
     },
     {
       "english_file_name": "middle_ceramic_oven_3p.webp",
       "korean_file_name": "미들세라믹오븐_3매.webp",
-      "jsdelivr_url": "https://cdn.jsdelivr.net/gh/Mourn5367/SoftMill_IMG@main/Product_Homepage/webp/middle_ceramic_oven_3p.webp"
+      "jsdelivr_url": "https://cdn.jsdelivr.net/gh/Mourn5367/SoftMill_IMG@main/Product_Homepage/webp/middle_ceramic_oven_3p.webp",
+      "product":"오븐",
+      "category":"세라믹오븐"
     },
     {
       "english_file_name": "proofer_20p.webp",
       "korean_file_name": "발효기_20매.webp",
-      "jsdelivr_url": "https://cdn.jsdelivr.net/gh/Mourn5367/SoftMill_IMG@main/Product_Homepage/webp/proofer_20p.webp"
+      "jsdelivr_url": "https://cdn.jsdelivr.net/gh/Mourn5367/SoftMill_IMG@main/Product_Homepage/webp/proofer_20p.webp",
+      "product":"발효기"
     },
     {
       "english_file_name": "proofer_40p.webp",
       "korean_file_name": "발효기_40매.webp",
-      "jsdelivr_url": "https://cdn.jsdelivr.net/gh/Mourn5367/SoftMill_IMG@main/Product_Homepage/webp/proofer_40p.webp"
+      "jsdelivr_url": "https://cdn.jsdelivr.net/gh/Mourn5367/SoftMill_IMG@main/Product_Homepage/webp/proofer_40p.webp",
+      "product":"발효기"
     },
     {
       "english_file_name": "vertical_mixer_20l.webp",
       "korean_file_name": "버티컬믹서_20L.webp",
-      "jsdelivr_url": "https://cdn.jsdelivr.net/gh/Mourn5367/SoftMill_IMG@main/Product_Homepage/webp/vertical_mixer_20l.webp"
+      "jsdelivr_url": "https://cdn.jsdelivr.net/gh/Mourn5367/SoftMill_IMG@main/Product_Homepage/webp/vertical_mixer_20l.webp",
+      "product":"제빵기기",
+      "category":"믹서기"
     },
     {
       "english_file_name": "vertical_mixer_30l.webp",
       "korean_file_name": "버티컬믹서_30L.webp",
-      "jsdelivr_url": "https://cdn.jsdelivr.net/gh/Mourn5367/SoftMill_IMG@main/Product_Homepage/webp/vertical_mixer_30l.webp"
+      "jsdelivr_url": "https://cdn.jsdelivr.net/gh/Mourn5367/SoftMill_IMG@main/Product_Homepage/webp/vertical_mixer_30l.webp",
+      "product":"제빵기기",
+      "category":"믹서기"
     },
     {
       "english_file_name": "vertical_mixer_pl20cnvhf.webp",
       "korean_file_name": "버티컬믹서_PL20CNVHF.webp",
-      "jsdelivr_url": "https://cdn.jsdelivr.net/gh/Mourn5367/SoftMill_IMG@main/Product_Homepage/webp/vertical_mixer_pl20cnvhf.webp"
+      "jsdelivr_url": "https://cdn.jsdelivr.net/gh/Mourn5367/SoftMill_IMG@main/Product_Homepage/webp/vertical_mixer_pl20cnvhf.webp",
+      "product":"제빵기기",
+      "category":"믹서기"
     },
     {
       "english_file_name": "vertical_mixer_pl30n3f.webp",
       "korean_file_name": "버티컬믹서기_PL30N3F.webp",
-      "jsdelivr_url": "https://cdn.jsdelivr.net/gh/Mourn5367/SoftMill_IMG@main/Product_Homepage/webp/vertical_mixer_pl30n3f.webp"
+      "jsdelivr_url": "https://cdn.jsdelivr.net/gh/Mourn5367/SoftMill_IMG@main/Product_Homepage/webp/vertical_mixer_pl30n3f.webp",
+      "product":"제빵기기",
+      "category":"믹서기"
     },
     {
       "english_file_name": "vertical_mixer_50l.webp",
       "korean_file_name": "버티컬믹서기_50L.webp",
-      "jsdelivr_url": "https://cdn.jsdelivr.net/gh/Mourn5367/SoftMill_IMG@main/Product_Homepage/webp/vertical_mixer_50l.webp"
+      "jsdelivr_url": "https://cdn.jsdelivr.net/gh/Mourn5367/SoftMill_IMG@main/Product_Homepage/webp/vertical_mixer_50l.webp",
+      "product":"제빵기기",
+      "category":"믹서기"
     },
     {
       "english_file_name": "compact_dough_conditioner.webp",
       "korean_file_name": "소형_도우컨디셔너.webp",
-      "jsdelivr_url": "https://cdn.jsdelivr.net/gh/Mourn5367/SoftMill_IMG@main/Product_Homepage/webp/compact_dough_conditioner.webp"
+      "jsdelivr_url": "https://cdn.jsdelivr.net/gh/Mourn5367/SoftMill_IMG@main/Product_Homepage/webp/compact_dough_conditioner.webp",
+      "product":"도우컨디셔너"
     },
     {
       "english_file_name": "spiral_mixer.webp",
       "korean_file_name": "스파이럴_믹서기.webp",
-      "jsdelivr_url": "https://cdn.jsdelivr.net/gh/Mourn5367/SoftMill_IMG@main/Product_Homepage/webp/spiral_mixer.webp"
+      "jsdelivr_url": "https://cdn.jsdelivr.net/gh/Mourn5367/SoftMill_IMG@main/Product_Homepage/webp/spiral_mixer.webp",
+      "product":"제빵기기",
+      "category":"믹서기"
     },
     {
       "english_file_name": "slicer.webp",
       "korean_file_name": "슬라이서.webp",
-      "jsdelivr_url": "https://cdn.jsdelivr.net/gh/Mourn5367/SoftMill_IMG@main/Product_Homepage/webp/slicer.webp"
+      "jsdelivr_url": "https://cdn.jsdelivr.net/gh/Mourn5367/SoftMill_IMG@main/Product_Homepage/webp/slicer.webp",
+      "product":"제빵기기",
+      "category":"슬라이서"
     },
     {
       "english_file_name": "double_door_dough_conditioner.webp",
       "korean_file_name": "양문형_도우컨디셔너.webp",
-      "jsdelivr_url": "https://cdn.jsdelivr.net/gh/Mourn5367/SoftMill_IMG@main/Product_Homepage/webp/double_door_dough_conditioner.webp"
+      "jsdelivr_url": "https://cdn.jsdelivr.net/gh/Mourn5367/SoftMill_IMG@main/Product_Homepage/webp/double_door_dough_conditioner.webp",
+      "product":"도우컨디셔너"
     },
     {
       "english_file_name": "double_door_proofer_homepage.webp",
       "korean_file_name": "양문형_발효기.webp",
-      "jsdelivr_url": "https://cdn.jsdelivr.net/gh/Mourn5367/SoftMill_IMG@main/Product_Homepage/webp/double_door_proofer_homepage.webp"
+      "jsdelivr_url": "https://cdn.jsdelivr.net/gh/Mourn5367/SoftMill_IMG@main/Product_Homepage/webp/double_door_proofer_homepage.webp",
+      "product":"발효기"
     },
     {
       "english_file_name": "euro_baker_2p_3t.webp",
       "korean_file_name": "유로베이커_2매3단.webp",
-      "jsdelivr_url": "https://cdn.jsdelivr.net/gh/Mourn5367/SoftMill_IMG@main/Product_Homepage/webp/euro_baker_2p_3t.webp"
+      "jsdelivr_url": "https://cdn.jsdelivr.net/gh/Mourn5367/SoftMill_IMG@main/Product_Homepage/webp/euro_baker_2p_3t.webp",
+      "product":"오븐",
+      "category":"유로오븐"
     },
     {
       "english_file_name": "euro_baker_4p_3t.webp",
       "korean_file_name": "유로베이커_4매3단.webp",
-      "jsdelivr_url": "https://cdn.jsdelivr.net/gh/Mourn5367/SoftMill_IMG@main/Product_Homepage/webp/euro_baker_4p_3t.webp"
+      "jsdelivr_url": "https://cdn.jsdelivr.net/gh/Mourn5367/SoftMill_IMG@main/Product_Homepage/webp/euro_baker_4p_3t.webp",
+      "product":"오븐",
+      "category":"유로오븐"
     },
     {
       "english_file_name": "inno_bc_oven_4p_3t.webp",
       "korean_file_name": "이노비씨오븐_4매3단.webp",
-      "jsdelivr_url": "https://cdn.jsdelivr.net/gh/Mourn5367/SoftMill_IMG@main/Product_Homepage/webp/inno_bc_oven_4p_3t.webp"
+      "jsdelivr_url": "https://cdn.jsdelivr.net/gh/Mourn5367/SoftMill_IMG@main/Product_Homepage/webp/inno_bc_oven_4p_3t.webp",
+      "product":"오븐",
+      "category":"이노비씨오븐"
     },
     {
       "english_file_name": "inno_bc_oven_8p_5t.webp",
       "korean_file_name": "이노비씨오븐_8매5단.webp",
-      "jsdelivr_url": "https://cdn.jsdelivr.net/gh/Mourn5367/SoftMill_IMG@main/Product_Homepage/webp/inno_bc_oven_8p_5t.webp"
+      "jsdelivr_url": "https://cdn.jsdelivr.net/gh/Mourn5367/SoftMill_IMG@main/Product_Homepage/webp/inno_bc_oven_8p_5t.webp",
+      "product":"오븐",
+      "category":"이노비씨오븐"
     },
     {
       "english_file_name": "integrated_dough_conditioner.webp",
       "korean_file_name": "일체형_도우컨디셔너.webp",
-      "jsdelivr_url": "https://cdn.jsdelivr.net/gh/Mourn5367/SoftMill_IMG@main/Product_Homepage/webp/integrated_dough_conditioner.webp"
+      "jsdelivr_url": "https://cdn.jsdelivr.net/gh/Mourn5367/SoftMill_IMG@main/Product_Homepage/webp/integrated_dough_conditioner.webp",
+      "product":"도우컨디셔너"
     },
     {
       "english_file_name": "low_temp_humidity_cabinet.webp",
       "korean_file_name": "저온다습고.webp",
-      "jsdelivr_url": "https://cdn.jsdelivr.net/gh/Mourn5367/SoftMill_IMG@main/Product_Homepage/webp/low_temp_humidity_cabinet.webp"
+      "jsdelivr_url": "https://cdn.jsdelivr.net/gh/Mourn5367/SoftMill_IMG@main/Product_Homepage/webp/low_temp_humidity_cabinet.webp",
+      "product":"냉장냉동고"
     },
     {
       "english_file_name": "convergence_2p_3t.webp",
       "korean_file_name": "컨버전스오븐_2매3단.webp",
-      "jsdelivr_url": "https://cdn.jsdelivr.net/gh/Mourn5367/SoftMill_IMG@main/Product_Homepage/webp/convergence_2p_3t.webp"
+      "jsdelivr_url": "https://cdn.jsdelivr.net/gh/Mourn5367/SoftMill_IMG@main/Product_Homepage/webp/convergence_2p_3t.webp",
+      "product":"오븐",
+      "category":"컨버전스오븐"
     },
     {
       "english_file_name": "convergence_4p_3t.webp",
       "korean_file_name": "컨버전스오븐_4매3단.webp",
-      "jsdelivr_url": "https://cdn.jsdelivr.net/gh/Mourn5367/SoftMill_IMG@main/Product_Homepage/webp/convergence_4p_3t.webp"
+      "jsdelivr_url": "https://cdn.jsdelivr.net/gh/Mourn5367/SoftMill_IMG@main/Product_Homepage/webp/convergence_4p_3t.webp",
+      "product":"오븐",
+      "category":"컨버전스오븐"
     },
     {
       "english_file_name": "convection_5p_2t.webp",
       "korean_file_name": "컨벡션오븐_5매2단.webp",
-      "jsdelivr_url": "https://cdn.jsdelivr.net/gh/Mourn5367/SoftMill_IMG@main/Product_Homepage/webp/convection_5p_2t.webp"
+      "jsdelivr_url": "https://cdn.jsdelivr.net/gh/Mourn5367/SoftMill_IMG@main/Product_Homepage/webp/convection_5p_2t.webp",
+      "product":"오븐",
+      "category":"컨벡션오븐"
     },
     {
       "english_file_name": "convection_oven_10p.webp",
       "korean_file_name": "컨벡션오븐_10매.webp",
-      "jsdelivr_url": "https://cdn.jsdelivr.net/gh/Mourn5367/SoftMill_IMG@main/Product_Homepage/webp/convection_oven_10p.webp"
+      "jsdelivr_url": "https://cdn.jsdelivr.net/gh/Mourn5367/SoftMill_IMG@main/Product_Homepage/webp/convection_oven_10p.webp",
+      "product":"오븐",
+      "category":"컨벡션오븐"
     },
     {
       "english_file_name": "convection_oven_5p.webp",
       "korean_file_name": "컨벡션오븐_5매.webp",
-      "jsdelivr_url": "https://cdn.jsdelivr.net/gh/Mourn5367/SoftMill_IMG@main/Product_Homepage/webp/convection_oven_5p.webp"
+      "jsdelivr_url": "https://cdn.jsdelivr.net/gh/Mourn5367/SoftMill_IMG@main/Product_Homepage/webp/convection_oven_5p.webp",
+      "product":"오븐",
+      "category":"컨벡션오븐"
     },
     {
       "english_file_name": "combi.webp",
@@ -258,22 +340,29 @@
     {
       "english_file_name": "table_refrigerator_freezer.webp",
       "korean_file_name": "테이블냉장냉동고.webp",
-      "jsdelivr_url": "https://cdn.jsdelivr.net/gh/Mourn5367/SoftMill_IMG@main/Product_Homepage/webp/table_refrigerator_freezer.webp"
+      "jsdelivr_url": "https://cdn.jsdelivr.net/gh/Mourn5367/SoftMill_IMG@main/Product_Homepage/webp/table_refrigerator_freezer.webp",
+      "product":"냉장냉동고",
     },
     {
       "english_file_name": "pie_roller_450a.webp",
       "korean_file_name": "파이롤러_450A.webp",
-      "jsdelivr_url": "https://cdn.jsdelivr.net/gh/Mourn5367/SoftMill_IMG@main/Product_Homepage/webp/pie_roller_450a.webp"
+      "jsdelivr_url": "https://cdn.jsdelivr.net/gh/Mourn5367/SoftMill_IMG@main/Product_Homepage/webp/pie_roller_450a.webp",
+      "product":"제빵기기",
+      "category":"파이롤러"
     },
     {
       "english_file_name": "pie_roller_d520bf.webp",
       "korean_file_name": "파이롤러_D520BF.webp",
-      "jsdelivr_url": "https://cdn.jsdelivr.net/gh/Mourn5367/SoftMill_IMG@main/Product_Homepage/webp/pie_roller_d520bf.webp"
+      "jsdelivr_url": "https://cdn.jsdelivr.net/gh/Mourn5367/SoftMill_IMG@main/Product_Homepage/webp/pie_roller_d520bf.webp",
+      "product":"제빵기기",
+      "category":"파이롤러"
     },
     {
       "english_file_name": "pie_roller_sf500d_sf500vd.webp",
       "korean_file_name": "파이롤러_SF500D_SF500VD.webp",
-      "jsdelivr_url": "https://cdn.jsdelivr.net/gh/Mourn5367/SoftMill_IMG@main/Product_Homepage/webp/pie_roller_sf500d_sf500vd.webp"
+      "jsdelivr_url": "https://cdn.jsdelivr.net/gh/Mourn5367/SoftMill_IMG@main/Product_Homepage/webp/pie_roller_sf500d_sf500vd.webp",
+      "product":"제빵기기",
+      "category":"파이롤러"
     }
   ]
 }
